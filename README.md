@@ -1,1 +1,1 @@
-# .github
+Opinionated voice first tooling
